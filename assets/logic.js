@@ -139,7 +139,7 @@
         }
 
         // Check if 36 questions are already finished; if so, display some graphic (need function) and exit click handler
-        if (exchangeCounter === 35)
+        if (exchangeCounter === 36)
         {
           // graphic function call goes here
           alert("End of questions.")

@@ -81,7 +81,7 @@ var answers =
 `Hm, you sound really frustrated. As for me, I seem to have lost my scroll bar.`
 ];
 
-var headerContent = `The 36-Questions-that-Lead-to-Love Bot`;
+var headerContent = `The 36 Questions Chat Bot`;
 
 var loader =
 `<div class="computer" id="loader-container">
